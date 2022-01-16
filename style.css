@@ -1,0 +1,13 @@
+#grid-container {
+   display: grid;
+   border: 5px solid black;
+   max-width: 500px;
+  min-height: 500px;
+}
+
+
+
+#reset-btn {
+    padding: 20px;
+    content: "Reset";
+}
